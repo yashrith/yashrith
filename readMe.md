@@ -6,7 +6,9 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 
 ## 📋 About Me
 
-- 🎓 **Education:** AEC in Artificial Intelligence and Machine Learning (LaSalle College, Montreal).
+- 🎓 **Education:**
+  - AEC in Artificial Intelligence and Machine Learning (LaSalle College, Montreal).
+  - Bachelor's in Computer Science & Engineering (Sri Venkateswara College of Engineering, Chittoor, Andhra Pradesh, India).
 - 🌟 **Technical Skills:**
   - Programming Languages: Python, SQL, Java
   - Data Analysis & Visualization: Pandas, Matplotlib, Power BI
