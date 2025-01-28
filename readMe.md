@@ -59,6 +59,7 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 - **Email:** yashrithchittoor@gmail.com
 - **LinkedIn:** [linkedin.com/in/yashrith](https://www.linkedin.com/in/yashrith/)
 - **GitHub:** [github.com/yashrith](https://github.com/yashrith)
+- **Instagram:** [instagram.com/yashrith_](https://www.instagram.com/yashrith_/)
 
 ---
 
