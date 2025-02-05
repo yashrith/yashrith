@@ -24,17 +24,17 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 
 ## 💻 Featured Projects
 
-### 1. **Customer Forecasting for Bike Rentals**
+### 1. **AI-Bio-Explorer - AI-Powered Person Discovery Chatbot**
 
-- Built an MLP regressor to predict bike rentals based on environmental factors.
-- Designed a Streamlit app for real-time predictions and operational optimization.
+- Built an AI chatbot using LangChain, OpenAI GPT, and Streamlit for structured person discovery.
+- Integrated memory-based conversation history and biographical data retrieval.
 - Tools: Python, Pandas, TensorFlow, Streamlit.
 
 ### 2. **AI Music Genre Predictor**
 
 - Developed an SVC model using MFCC features to classify music genres.
 - Built an interactive Streamlit app for user-friendly visualization.
-- Tools: Python, Scikit-learn, Streamlit.
+- Tools: Python, LangChain, OpenAI GPT, Streamlit.
 
 ### 3. **Color Analysis with CNN**
 
