@@ -30,13 +30,19 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 - Integrated memory-based conversation history and biographical data retrieval.
 - Tools: Python, Pandas, TensorFlow, Streamlit.
 
-### 2. **AI Music Genre Predictor**
+### 2. **AI Pdf Chatbot**
+
+- Developed an AI-powered chatbot that allows users to upload PDFs and ask questions based on document content.
+- Implemented FAISS-based vector search for efficient document retrieval and response validation.
+- Tools: Python, LangChain, Google Gemini AI, FAISS, Streamlit.
+
+### 3. **AI Music Genre Predictor**
 
 - Developed an SVC model using MFCC features to classify music genres.
 - Built an interactive Streamlit app for user-friendly visualization.
 - Tools: Python, LangChain, OpenAI GPT, Streamlit.
 
-### 3. **Color Analysis with CNN**
+### 4. **Color Analysis with CNN**
 
 - Designed a CNN model to classify and analyze colors in images.
 - Implemented a Python application showcasing the model's capabilities.
