@@ -45,8 +45,6 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 </td>
 <td width="50%" valign="top">
 
----
-
 ### 3. **AI Music Genre Predictor**
   
 - Developed an SVC model using MFCC features to classify music genres.
