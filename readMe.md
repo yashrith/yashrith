@@ -22,6 +22,26 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 
 ---
 
+
+## 🧑‍💼 Professional Experience
+
+### Intern – NLP & LLM Engineer | Jaqln AI *(2024 - Present)*
+
+- Led prompt engineering for optimized chatbot performance in the legal domain.
+- Developed scalable NLP pipelines with LangChain and vector databases for RAG (Retrieval-Augmented Generation).
+- Built LLM-powered systems for intelligent document chunk processing and relevant data retrieval.
+- Integrated AWS services with embedding technologies to enable advanced semantic search and inference.
+- Continuously experimented with model refinement strategies using real-time feedback.
+
+### Web Services and WordPress Developer | Aiceresoft *(2021 – 2023)*
+
+- Designed and developed responsive WordPress themes using PHP, HTML, CSS, and JavaScript.
+- Implemented caching, image compression, and code minification to optimize performance.
+- Managed content updates and executed SEO strategies using keyword research, meta tags, and analytics tools.
+- Successfully improved site ranking and increased organic traffic.
+
+---
+
 ## 💻 Featured Projects
 
 <div align="center">
@@ -83,24 +103,6 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 
 ---
 
-## 🧑‍💼 Professional Experience
-
-### Intern – NLP & LLM Engineer | Jaqln AI *(2024 - Present)*
-
-- Led prompt engineering for optimized chatbot performance in the legal domain.
-- Developed scalable NLP pipelines with LangChain and vector databases for RAG (Retrieval-Augmented Generation).
-- Built LLM-powered systems for intelligent document chunk processing and relevant data retrieval.
-- Integrated AWS services with embedding technologies to enable advanced semantic search and inference.
-- Continuously experimented with model refinement strategies using real-time feedback.
-
-### Web Services and WordPress Developer | Aiceresoft *(2021 – 2023)*
-
-- Designed and developed responsive WordPress themes using PHP, HTML, CSS, and JavaScript.
-- Implemented caching, image compression, and code minification to optimize performance.
-- Managed content updates and executed SEO strategies using keyword research, meta tags, and analytics tools.
-- Successfully improved site ranking and increased organic traffic.
-
----
 
 ## 🛠️ Skills and Expertise
 
