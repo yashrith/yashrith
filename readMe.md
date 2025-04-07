@@ -80,7 +80,9 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 </table>
 
 </div>
+
 ---
+
 ## 🧑‍💼 Professional Experience
 
 ### Intern – NLP & LLM Engineer | Jaqln AI *(2024 - Present)*
