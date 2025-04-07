@@ -66,7 +66,7 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 - Designed a CNN model to classify and analyze colors in images.
 - Implemented a Python application showcasing the model's capabilities.
 - **Tools:** TensorFlow, Python.
-- 🔗 [GitHub Notebook]([https://github.com/yashrith/ModelForge/blob/master/Autoencoders.ipynb](https://github.com/yashrith/colour-analysis-with-cnn))
+- 🔗 [GitHub Notebook](https://github.com/yashrith/colour-analysis-with-cnn)
 
 ### 6. **Autoencoders for Dimensionality Reduction**
 
