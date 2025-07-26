@@ -25,7 +25,7 @@ Welcome to my GitHub Portfolio! I am a passionate Artificial Intelligence and Ma
 
 ## 🧑‍💼 Professional Experience
 
-### Intern – NLP & LLM Engineer | Jaqln AI *(2024 - Present)*
+### Intern – NLP & LLM Engineer | Jaqln AI *(Feburary 2025 - July 2023)*
 
 - Led prompt engineering for optimized chatbot performance in the legal domain.
 - Developed scalable NLP pipelines with LangChain and vector databases for RAG (Retrieval-Augmented Generation).
